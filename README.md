@@ -11,6 +11,7 @@ This project demonstrates a form using Tailwind CSS with the following features:
 - Autocomplete on form inputs.
 - Active window highlighting on mouse click.
 - Hover effects on buttons.
+- 
 ![Description](./public/Screenshot_2.png)
 ## 3.Visual Verification Window
 ![Description](./public/Screenshot_3.png)
