@@ -4,9 +4,11 @@ This project demonstrates a form using Tailwind CSS with the following features:
 - To start this project download the zip and doubleclick index.html
 ## 1.Color Change Window:
 - 6 different themes are available for selection.
-![Description](./public/Screenshot_1.png)
-![Description](./public/Screenshot_5.png)
-![Description](./public/Screenshot_6.png)
+
+-  ![Image 1](./public/Screenshot_1.png)  ![Image 2](./public/Screenshot_5.png)  ![Image 3](./public/Screenshot_6.png) 
+
+    | *Purple theme*    | *Green theme*            | *Turquoise theme*            |
+
 
 ## 2.Form:
 - Autocomplete on form inputs.
